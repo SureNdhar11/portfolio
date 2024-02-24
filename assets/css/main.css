@@ -2061,7 +2061,7 @@ input, select, textarea {
 
 /* Button */
 
-	input[type="submit"],
+/* 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
 	button,
@@ -2236,10 +2236,10 @@ input, select, textarea {
 			.button.primary:hover {
 				background-color: #18bfef;
 			}
-
+ */
 /* Form */
 
-	form {
+/* 	form {
 		margin: 0 0 2rem 0;
 	}
 
@@ -2548,7 +2548,7 @@ input, select, textarea {
 	.formerize-placeholder {
 		color: #909498 !important;
 	}
-
+ */
 /* Icon */
 
 	.icon {
@@ -2853,7 +2853,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			padding-left: 3rem;
 		}
 
 		ul.divided {
