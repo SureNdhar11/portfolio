@@ -2236,7 +2236,7 @@ input, select, textarea {
 			.button.primary:hover {
 				background-color: #18bfef;
 			}
- 
+
 /* Form */
 
 	form {
@@ -2548,7 +2548,7 @@ input, select, textarea {
 	.formerize-placeholder {
 		color: #909498 !important;
 	}
- 
+
 /* Icon */
 
 	.icon {
@@ -3332,7 +3332,7 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color:  #ffffff;
+			color: #ffffff;
 		}
 
 		#intro blockquote {
@@ -3388,7 +3388,6 @@ input, select, textarea {
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
-	
 		}
 
 		#intro p {
@@ -3396,7 +3395,6 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
-	
 		}
 
 		#intro + #header {
