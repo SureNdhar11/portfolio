@@ -2853,7 +2853,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 3rem;
+			padding-left: 0.5rem;
 		}
 
 		ul.divided {
@@ -3332,7 +3332,7 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: black;
+			color:  #ffffff;
 		}
 
 		#intro blockquote {
@@ -3388,6 +3388,7 @@ input, select, textarea {
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
+			color:black;
 		}
 
 		#intro p {
@@ -3395,6 +3396,7 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
+			color:black;
 		}
 
 		#intro + #header {
