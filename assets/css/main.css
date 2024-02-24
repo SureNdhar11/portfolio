@@ -3388,7 +3388,7 @@ input, select, textarea {
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
-			color:black;
+	
 		}
 
 		#intro p {
@@ -3396,7 +3396,7 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
-			color:black;
+	
 		}
 
 		#intro + #header {
